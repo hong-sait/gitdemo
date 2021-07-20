@@ -3,3 +3,4 @@ candy
 sugar
 flour
 apple
+pear
