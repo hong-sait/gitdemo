@@ -2,3 +2,6 @@ wine
 candy
 sugar
 flour
+apple
+pear
+banana
